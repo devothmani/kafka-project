@@ -1,0 +1,5 @@
+package com.kafkaproject.springbootkafka.controller;
+
+public class KafkaProducerController {
+
+}

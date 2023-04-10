@@ -1,0 +1,5 @@
+package com.kafkaproject.springbootkafka.utils;
+
+public class AppConstants {
+
+}
